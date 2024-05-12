@@ -21,7 +21,9 @@ VITE_CLERK_PUBLISHABLE_KEY=<your clerk publish key>
 ```
 
 you can easily find this key on clerk dashboard
+<br>
 <b>[Clerk Dashboard](https://clerk.com/)</b>
+<br>
 simply create and account to get `VITE_CLERK_PUBLISHABLE_KEY`
 
 ## Run project
