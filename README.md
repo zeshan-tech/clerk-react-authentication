@@ -39,4 +39,4 @@ npm run dev
 
 ## License
 
-Nodejs MongoDB UserManagement is [MIT licensed](LICENSE).
+Clerk React Authentication is [MIT licensed](LICENSE).
